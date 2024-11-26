@@ -1,0 +1,35 @@
+.login-page {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .login-page h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .login-page form {
+    display: inline-block;
+    text-align: left;
+  }
+  
+  .login-page input {
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 250px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .login-page button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .login-page button:hover {
+    background-color: #218838;
+  }
+  
